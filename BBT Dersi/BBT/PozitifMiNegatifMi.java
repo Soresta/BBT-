@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class PozitifMiNegatifMi {
     public static void main(String[] args) {
+        //Klavyeden girilen sayının pozitif mi negatif mi olduğunu bulan programı yazınız..
+        
         Scanner read = new Scanner(System.in);
 
         System.out.print("Sayı giriniz: ");
