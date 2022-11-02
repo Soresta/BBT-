@@ -22,6 +22,6 @@ public class YuzElemanliDizi {
             }
         }
         ortlama = (double) toplam / sayac;
-        System.out.println("Girilen sayılardan pozitif olanların ortalaması = "ortlama);
+        System.out.println("Girilen sayılardan pozitif olanların ortalaması = " + ortlama);
     }
 }
