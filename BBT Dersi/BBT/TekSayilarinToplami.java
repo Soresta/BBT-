@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class TekSayilarinToplami {
     public static void main(String[] args) {
+        //Klavyeden girilen 10 tane sayıdan TEK olan sayıların toplamını hesaplayan programı yazınız ..
 
         Scanner read = new Scanner(System.in);
         int toplam = 0;
