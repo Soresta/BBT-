@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class TekMiCiftMi {
     public static void main(String[] args) {
-        //Girilen sayının Tek mi Çift mi olduğunu ekrana yazan program..
+        //Klavyeden girilen sayının Tek mi Çift mi olduğunu ekrana yazan programı yazınız..
+        
         Scanner read = new Scanner(System.in);
 
         System.out.print("Sayı giriniz: ");
