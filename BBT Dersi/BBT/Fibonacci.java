@@ -13,7 +13,9 @@ public class Fibonacci {
             System.out.println(sayac + ": " + totalresult);
             num1 = num2;
             num2 = (int) totalresult;
-
+            //Not: Serinin son sayılarını yazdırırken bir kaç tanesi negatif gözüküyor bu sorunun
+            //neden kaynaklandığını anlayamadık, Pythonda denedik ve bir sıkıntı göremedik..
+            //neyden kaynaklandığını öğrenirsek düzenleme gelicektir
         }
     }
 }
