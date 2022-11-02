@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Girilen10SayininToplami {
     public static void main(String[] args) {
+        //Klavyeden girilen 10 sayının toplamı..
 
         Scanner read = new Scanner(System.in);
         int toplam = 0;
