@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class OgrenciOrtalama {
     public static void main(String[] args) {
+        //50 ögrencinin vize ve final notuna göre ortalamalarını hesaplayan ve buna göre 
+        //Geçip kalma durumlarını ekrana yazan programı yazınız.
 
         byte vizeNot, finalNot, i;
         double ortalama;
