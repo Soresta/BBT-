@@ -1,4 +1,5 @@
 public class Fibonacci {
+    //1 1 2 3 5 8 ... diye ilerleyen Fibonacci serisinin ilk 50 terimini yazınız!
     public static void main(String[] args) {
         int num1, num2, sayac;
         long totalresult;
