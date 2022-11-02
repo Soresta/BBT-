@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Girilen50SayidanEnBuyugu {
     public static void main(String[] args) {
+        //Klavyeden girilen 50 tane sayıdan en büyüğünü bulan programı yazınız ..
+        
         Scanner read = new Scanner(System.in);
         int enBuyuk, numberA, numberB;
 
