@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class IkinciDerecedenDenklem {
     public static void main(String[] args) {
+        //a, b ,c değerleri verilen 2 dereceden denklemin köklerini hesaplayan ve bunları ekrana yazdıran programı yazınız.
+        
         Scanner read = new Scanner(System.in);
         Double a, b, c, x1, x2, alfa;
 
