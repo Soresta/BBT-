@@ -1,7 +1,7 @@
 public class Fibonacci {
     //1 1 2 3 5 8 ... diye ilerleyen Fibonacci serisinin ilk 50 terimini yazınız!
     public static void main(String[] args) {
-        int num1, num2, sayac;
+        long num1, num2, sayac;
         long totalresult;
 
         num1 = 0;
@@ -12,7 +12,7 @@ public class Fibonacci {
             totalresult = num1 + num2;
             System.out.println(sayac + ": " + totalresult);
             num1 = num2;
-            num2 = (int) totalresult;
+            num2 = (long) totalresult;
             //Not: Güncelleme gelmiştir serinin son sayıları(son 2 veya 3 )negatif çıkması sebebi çözüldü:
             //int kullanımından dolayı kaynaklanan bu problem long veri tipi kullanımından sonra çözüldü..
         }
