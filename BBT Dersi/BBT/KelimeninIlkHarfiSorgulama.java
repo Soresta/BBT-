@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class KelimeninIlkHarfiSorgulama {
     public static void main(String[] args) {
-        //Klavyeden girilen 10 Stringin arasında 'A' veya 'a' harfleri ile başlayanlar Stringleri ekrana yazdıran programı yazınız.
+        //Klavyeden girilen 10 Stringin arasında 'A' veya 'a' harfleri ile başlayan Stringleri ekrana yazdıran programı yazınız.
+        
         Scanner read = new Scanner(System.in);
 
         int sayac;
