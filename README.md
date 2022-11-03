@@ -4,4 +4,4 @@ olan Bilgisayar bilimin temelleri dersinde olan örnekleri ve soruları kapsayan
 
 Not: Bu dosya her yeni ders işlenince güncellenecektir..
 
-Sevgi ve Saygılarımla..
+Sevgi ve Saygılarımla.. -Akif KARACA
