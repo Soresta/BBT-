@@ -1,4 +1,4 @@
-public class hafta4 {
+public class hafta4_1 {
     public static void main(String[] args) {
         //Ad ve soyadınızı 100 kere yazdıran programı yazınız!
         String fullName = "Ad  Soyad";
